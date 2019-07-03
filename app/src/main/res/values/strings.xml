@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeaconTransmitter</string>
+    <string name="createBeacon">Create a Beacon</string>
+</resources>
